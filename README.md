@@ -49,15 +49,15 @@ Use the .env.example file to ensure proper database setup. Replace the environme
 ![image](https://github.com/user-attachments/assets/d450ba49-e6cc-4c82-ab4f-f2f66de5d2c7)
 
 
-<img src="./client/src/assets/images/home-preview.png" width="50%" height="50%">
+
 
 #### Quiz
 
-<img src="./client/src/assets/images/quizselect-preview.png" width="50%" height="50%">
+<img src="./client/src/assets/images/quizselect-preview.png" >
 
-<img src="./client/src/assets/images/quiz-preview.png" width="50%" height="50%">
+<img src="./client/src/assets/images/quiz-preview.png" >
 
 #### Quiz Results
 
-<img src="./client/src/assets/images/results-preview.png" width="50%" height="50%">
+<img src="./client/src/assets/images/results-preview.png" >
 
