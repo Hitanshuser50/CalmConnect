@@ -22,7 +22,7 @@ import DashboardIcon from '@mui/icons-material/Dashboard';
 import PsychologyIcon from '@mui/icons-material/Psychology';
 
 import LightbulbIcon from '@mui/icons-material/Lightbulb';
-import GitHubIcon from '@mui/icons-material/GitHub';
+//import GitHubIcon from '@mui/icons-material/GitHub';
 
 import CreateIcon from '@mui/icons-material/Create';
 import LoginIcon from '@mui/icons-material/Login';
@@ -164,11 +164,6 @@ export default function App() {
 
   const listTwo = [
 
-    {
-      text: 'Github',
-      icon: <GitHubIcon />,
-      link: 'https://github.com/nitrotap/mental-health-check',
-    }
   ];
 
   const listThree = [

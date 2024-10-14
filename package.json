@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nitrotap/mental-health-check.git"
+    "url": "git+  .git"
   },
   "keywords": [
     "mental-health",
@@ -27,13 +27,13 @@
   "author": "nitrotap",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nitrotap/mental-health-check/issues"
+    "url": "  /issues"
   },
-  "homepage": "https://github.com/nitrotap/mental-health-check#readme",
+  "homepage": "  #readme",
   "devDependencies": {
-    "concurrently": "^7.2.0"
+    "concurrently": "^9.0.1"
   },
   "dependencies": {
-    "chart.js": "^4.4.1"
+    "chart.js": "^4.4.4"
   }
 }
