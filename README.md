@@ -11,8 +11,6 @@ A mental health quiz app that helps users track their moods using standardized s
 - [Features](#features)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Preview](#preview)
-- [Made By](#made-by)
 - [Questions](#Questions)
 - [License](#License)
 
