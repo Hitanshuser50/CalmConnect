@@ -42,6 +42,12 @@ Use the .env.example file to ensure proper database setup. Replace the environme
 ## Preview
 
 #### Landing
+![image](https://github.com/user-attachments/assets/d15dc373-e9db-4ee5-9afa-943660d49ce8)
+
+![image](https://github.com/user-attachments/assets/6401712e-b88a-471c-b082-cde858cf855a)
+
+![image](https://github.com/user-attachments/assets/d450ba49-e6cc-4c82-ab4f-f2f66de5d2c7)
+
 
 <img src="./client/src/assets/images/home-preview.png" width="50%" height="50%">
 
